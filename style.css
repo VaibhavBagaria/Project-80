@@ -1,0 +1,11 @@
+body{
+    background-color: aqua;
+    color:blue;
+}
+
+#ShowParagraph{
+    background-color: blue;
+    color:aqua;
+    border-radius: 10px;
+    width: 500px;
+}
